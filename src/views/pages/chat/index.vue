@@ -271,7 +271,7 @@ export default {
 
 <template>
   <div>
-    <div class="layout-wrapper d-lg-flex">
+    <div class="layout-wrapper">
 
       <Room
         ref="chatContainer"
